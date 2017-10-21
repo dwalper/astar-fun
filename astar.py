@@ -240,7 +240,7 @@ class Controller:
 
 # The Window class probably should just be the controller since it already handles event dispatches.
 # But what do you people want??! This was a learning exercise. My desire to get things working
-# outweighed my desire to make the architecture as crisp as a freshly-starched shirty,
+# outweighed my desire to make the architecture as crisp as a freshly-starched shirt.
 # Incidentally, if you're into functional programming this thing is side-effect city, population
 # me. There's room if you want to emigrate, but I don't think you'll like it.
 
