@@ -4,8 +4,6 @@ This is a fun interactive demonstration of the A* pathfinding algorithm in actio
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 I started this project using Pygame for graphics, only to become insanely frustrated at its limitations. Pyglet has great documentation and lets you get a taste for OpenGL's API.
 
 ### Prerequisites
