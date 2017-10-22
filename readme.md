@@ -24,4 +24,6 @@ say "oink oink oink" # mac only
 
 This project is licensed under the MIT License. Go nuts.
 
-* Oblate spheroid. Whatever.
+
+
+\* Oblate spheroid. Whatever.
