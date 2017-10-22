@@ -6,7 +6,7 @@ Word of warning - there's currently no collision detection, so you can walk thro
 
 ## Getting Started
 
-I started this project using Pygame for graphics, only to become insanely frustrated at its limitations. Pyglet has great documentation and lets you get a taste for OpenGL's API.
+I used pyglet as a lightweight library for graphics handling. It has great documentation and gives you a taste for OpenGL's APIs.
 
 ### Prerequisites
 
