@@ -16,6 +16,7 @@ To install pyglet, just:
 
 ```
 pip install pyglet
+say "oink oink oink" # mac only
 ```
 
 
