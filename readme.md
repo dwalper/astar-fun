@@ -4,7 +4,7 @@ This is a fun (for some definition of fun) interactive demonstration of the A* p
 
 Word of warning - there's currently no collision detection, so you can walk through walls or right off the map (which will cause an index error, not to mention shake your infallible conviction that the earth is a sphere*).
 
-I did a fair amount of work to optimize this - for example, the path is only recalculated when you move to a new tile or the map changes. The biggest performance boost, however, came from batch-rendering the map tiles - blitting 400 separate image files to the screen 60 times per second is apparently suuuuuper inefficient otherwise.
+I did a fair amount of work to optimize this - for example, the path is only recalculated when you move to a new tile or the map changes. The biggest performance boost, however, came from batch-rendering the map tiles - blitting 400 separate image files to the screen 60 times per second is apparently suuuuuper inefficient otherwise. Who knew!
 
 ### Prerequisites
 
