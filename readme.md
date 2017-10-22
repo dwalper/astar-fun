@@ -19,7 +19,7 @@ say "oink oink oink" # mac only
 
 ### Installation
 
-Just clone this repo on your local machine:
+Clone this repo on your local machine:
 
 ```
 git clone https://github.com/dwalper/astar-fun.git
