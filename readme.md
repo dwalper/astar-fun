@@ -22,7 +22,7 @@ say "oink oink oink" # mac only
 
 ## License
 
-This project is licensed under the MIT License. Go nuts.
+This project is licensed under the MIT License.
 
 
 
