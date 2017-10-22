@@ -4,6 +4,8 @@ This is a fun (for some definition of fun) interactive demonstration of the A* p
 
 Word of warning - there's currently no collision detection, so you can walk through walls or right off the map (which will cause an index error, not to mention shake your infallible conviction that the earth is a sphere*).
 
+I did a fair amount of work to optimize this - for example, the path is only recalculated when you move to a new tile or the map changes. The biggest performance boost, however, came from batch-rendering the map tiles - blitting 400 separate image files to the screen 60 times per second is apparently suuuuuper inefficient otherwise.
+
 ### Prerequisites
 
 This was tested on Python 3.6. The only non-standard dependency is pyglet, a pretty sweet OpenGL wrapper for Python. It's much faster than pygame, though much more "bare metal" as it were - you have to use the OpenGL API to draw lines, for example.
