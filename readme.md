@@ -2,7 +2,7 @@
 
 This is a fun (for some definition of fun) interactive demonstration of the A* pathfinding algorithm in action. I used MVC to keep things clean. The shortest path to the goal is shown on-screen as a red line. You can move the little dude using your keyboard's arrow keys, or click to add walls, and the path will automatically update to reflect the new position/obstacles.
 
-Word of warning - there's currently no collision detection, so you can walk through walls or right off the map (which will cause an index error, not to mention shake your infallible conviction that the earth is a sphere).
+Word of warning - there's currently no collision detection, so you can walk through walls or right off the map (which will cause an index error, not to mention shake your infallible conviction that the earth is a sphere*).
 
 ## Getting Started
 
@@ -23,3 +23,5 @@ say "oink oink oink" # mac only
 ## License
 
 This project is licensed under the MIT License. Go nuts.
+
+* Oblate spheroid. Whatever.
